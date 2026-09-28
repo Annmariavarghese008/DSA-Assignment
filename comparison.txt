@@ -1,0 +1,9 @@
+COMPARISON TABLE
+
+Criteria                 Max Heap              Linear Search
+------------------------------------------------------------
+Finding Maximum          O(1)                  O(n)
+Insertion                O(log n)              O(1)
+Space                    O(n)                  O(1)
+Best for repeated max    Suitable              Less suitable
+Maintaining maximum      Efficient             Requires rescanning

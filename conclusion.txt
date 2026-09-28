@@ -1,0 +1,9 @@
+FINAL CONCLUSION
+
+For the given student scores, both Max Heap and Linear Search found the highest score as 95.
+
+Linear Search required 7 comparisons to find the maximum.
+
+In a Max Heap, the maximum element is always stored at the root, so it can be found in O(1) time. Insertion of a new score takes O(log n) time.
+
+Therefore, Max Heap is more suitable when student scores are continuously added and the highest score needs to be obtained repeatedly.
